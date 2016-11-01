@@ -1,5 +1,2 @@
 # hello-world
-
-Hello!
-
-This is a test for a new repository creation.
+Test a new repository creation.
